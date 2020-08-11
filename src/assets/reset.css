@@ -13,3 +13,6 @@ input{margin:0;padding:0;border:none; font-family:inherit;outline: none; /*去�
 textarea{resize:none;/* 禁止用户重置元素大小 */overflow:auto;font-family: inherit;outline: none;}
 .clearfix::after{content: '';display: block;clear: both;}
 .clearfix{*zoom: 1;}
+div{
+    color: #333;
+}
