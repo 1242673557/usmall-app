@@ -1,0 +1,51 @@
+.classifyTitle{
+    width: 100%;
+    height: 1rem;
+    background-color: #FF9900;
+    color: #fff;
+    line-height: 1rem;
+    text-align: center;
+    font-size: 0.45rem;
+}
+.classifySelect{
+    color: #FF9900;
+    background-color: #fff;
+    border-left: 0.1rem solid #1D84A7;
+}
+.classifyLeft {
+    width: 30%;
+    float: left;
+}
+.classifyLeft span{
+    display: block;
+    width: 100%;
+    height: 1rem;
+    line-height: 1rem;
+    text-align: center;
+    
+}
+.classifyRight{
+    width: 32%;
+    height: 3rem;
+    float: right;
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    margin-right: 0.1rem;
+    margin-left: 0.05rem;
+    border: 0.02rem solid #1D84A7;
+    border-radius: 0.2rem;
+    position: relative;
+}
+.classifyRight img{
+    width: 100%;
+    height: 100%;
+}
+.classifyRight p{
+    width: 100%;
+    text-align: center;
+    height: 0.5rem;
+    background-color: #1D84A7;
+    position: absolute;
+    bottom:0;
+    color: #fff;
+}

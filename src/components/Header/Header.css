@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 1rem;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #FF9900;
+}
+.header-title{
+    width: 100%;
+    line-height: 1rem;
+    font-size: 0.4rem;
+    color: #ffffff;
+}
+.header-back{
+    position: absolute;
+    font-size: 0.4rem;
+    color: #ffffff;
+    line-height: 1rem;
+    left: 0.2rem;
+}

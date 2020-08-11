@@ -1,0 +1,38 @@
+.Homelst{
+    width: 100%;
+    height: 2.5rem;
+
+    margin-bottom: 0.3rem;
+}
+.HomeLeft{
+    width: 35%;
+    height: 2.5rem;
+    float: left;
+}
+.HomeLeft img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.2rem;
+}
+.HomeRight{
+    margin-left: 0.2rem;
+    float: left;
+    height: 1rem;
+}
+.HomeRight p{
+    font-size: 0.45rem;
+    margin-bottom: 0.4rem;
+}
+.HomeRight span{
+    display: block;
+    color: #E23838;
+    margin-bottom: 0.1rem;
+}
+.HomeRight button{
+    width: 2.5rem;
+    height: 1rem;
+    background-color: #FF9900;
+    border-radius: 0.3rem;
+    color: #fff;
+    border: 0rem;
+}

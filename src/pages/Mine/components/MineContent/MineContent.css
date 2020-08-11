@@ -1,0 +1,100 @@
+.MineContent{
+    width: 100%;
+    position: relative;
+    background-color: #ffffff;
+}
+.MineTX {
+    width: 100%;
+    height: 1.5rem;
+}
+.MineTX img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: orangered;
+    border: 0.05rem solid #ffffff;
+    position:absolute;
+    left: 38%;
+    top: -1.1rem;
+}
+.MineTX span{
+    position:absolute;
+    left: 44%;
+    top: 1rem;
+    font-size: 0.3rem;
+    margin-top: 0.1rem;
+}
+.MineWDSC{
+    width: 90%;
+    height: 1rem;
+    margin: 0 auto;
+    margin-top: 0.2rem;
+    font-size: 0.35rem;
+}
+.MineWDDD{
+    width: 100%;
+    height: 1.5rem;
+    border-top: 0.1rem solid #FAFAFA;
+}
+.MineWDDD .MineCKDD{
+    width: 100%;
+    height: 1.2rem;
+    line-height: 100%;
+    line-height: 1.2rem;
+    border-bottom: 0.01rem solid black !important;
+}
+.MineWDDD .MineCKDD .Minedd1{
+    margin-left: 1rem;
+}
+.MineWDDD .MineCKDD .Minedd2{
+    float: right;
+    color: #B6B6BD;
+}
+.MineDFH{
+    width: 100%;
+    height: 1.5rem;
+}
+.MineDFH ul{
+    width: 90%;
+    height: 1.5rem;
+    margin: 0 auto;
+    display: flex;
+}
+.MineDFH ul li {
+    flex: 1;
+    text-align: center;
+    position: relative;
+}
+.MineDFH ul li img {
+    height: 35%;
+}
+.MineDFH ul li p {
+    font-size: 0.3rem;
+    margin-top: 0.2rem;
+    color: #666666;
+}
+.MineDFH ul li span{
+    display: block;
+    width: 0.35rem;
+    height: 0.35rem;
+    border-radius: 50%;
+    background-color: #FF0000;
+    color: #ffffff;
+    line-height: 0.35rem;
+    text-align: center;
+    font-size: 0.2rem;
+    position: absolute;
+    top: -0.1rem;
+    right: 0.2rem;
+}
+.MineSHDZ{
+    width: 100%;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    border-top: 0.1rem solid #FAFAFA;
+    color: #666666;
+}
+.MineSHDZ p{
+    width: 90%;
+    margin: 0 auto;
+}
